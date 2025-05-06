@@ -11,8 +11,6 @@ Hi there! I'm a passionate learner exploring **programming**, **AI**, and **tech
 - JavaScript
 - Java
 - Python
-- C#
-- C++
 - (Swift) 
 
 
