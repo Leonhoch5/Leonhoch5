@@ -25,7 +25,7 @@ const myStack = {
 
 
 *"Don't be sad about one big thing that did not happen - be happy about the small things that did."* 
-- Me
+Me
 
 🌟 *Star my repositories if you find something interesting!*  
 
