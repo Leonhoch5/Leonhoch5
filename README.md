@@ -28,5 +28,5 @@ const myStack = {
 Me
 
 🌟 *Star my repositories if you find something interesting!*  
-![Wetter](https://weather-github-readme.onrender.com/api/weather?location=Walldorf)
+
 
