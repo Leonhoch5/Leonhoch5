@@ -1,7 +1,7 @@
 
 # 👋 Welcome to Leon's GitHub Profile  
 
-**14-year-old developer | Tech explorer**  
+**15-year-old developer | Tech explorer**  
 
 Hi! I'm Leon, a young developer exploring the exciting world of programming and technology. I love building creative projects, solving problems, and constantly learning new things in STEM fields.
 
